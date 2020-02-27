@@ -43,7 +43,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
 import java.util.Date;
 
 public class MainActivity extends AppCompatActivity {
@@ -261,6 +260,11 @@ public class MainActivity extends AppCompatActivity {
                 Intent it = new Intent(this, HistoricoActivity.class);
                 it.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                 startActivity(it);
+                break;
+            case R.id.politicas:
+                Intent intent = new Intent(this, PoliticasActivity.class);
+                intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                startActivity(intent);
                 break;
         }
         return super.onOptionsItemSelected(item);
