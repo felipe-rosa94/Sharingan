@@ -48,7 +48,7 @@ public class IntroducaoActivity extends MaterialIntroActivity {
         DBConfig dbConfig = new DBConfig(this);
         try {
             dbConfig.abrirBanco();
-            if (dbConfig.Fields.Intro != 0){
+            if (dbConfig.Fields.Intro != 0) {
                 finish();
                 main();
             }
@@ -61,6 +61,7 @@ public class IntroducaoActivity extends MaterialIntroActivity {
 
     void main() {
         Intent intent = new Intent(this, MainActivity.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         startActivity(intent);
     }
 
