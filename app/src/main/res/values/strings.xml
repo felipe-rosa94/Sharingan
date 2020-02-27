@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sharingan</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="adiciona_imagem">Adiciona Imagem</string>
+    <string name="selecione_imagem">Selecione a imagem</string>
+    <string name="texto">Texto</string>
+    <string name="historico">Histórico</string>
+    <string name="grant_permissions">Liberar Permissões</string>
+    <string name="mis_grant_permissions">Permissões liberadas</string>
+    <string name="please_grant_permissions">Libere as Permissões</string>
+    <string name="aviso_selecao">Clique na imagem abaixo para selecionar a imagem.</string>
+    <string name="aviso_limpa">Clique na lixeira abaixo pra limpar e seleciona outra imagem.</string>
+    <string name="nome_arquivo">Nome do arquivo</string>
+    <string name="digite_nome_arquivo">Digite o nome do arquivo</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="area_tranferencia">Copiado para área de transferência!</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="nao_existe">Não existem arquivos salvos</string>
+</resources>

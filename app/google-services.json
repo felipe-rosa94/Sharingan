@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848247500436",
+    "firebase_url": "https://sharingan-641d0.firebaseio.com",
+    "project_id": "sharingan-641d0",
+    "storage_bucket": "sharingan-641d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848247500436:android:5630e570012c0d77f74e81",
+        "android_client_info": {
+          "package_name": "com.devtech.sharingan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848247500436-6j7hb043gs6kiklgbtt7vdpje4red2qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devtech.sharingan",
+            "certificate_hash": "1958f540cf59431bab94c8158f8e1a16aa0f079a"
+          }
+        },
+        {
+          "client_id": "848247500436-f5ueauvg70vulc7gfilpnt633mkrocst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcuqjpUlrojE-rRATgptRB1iBa-u3NN5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848247500436-f5ueauvg70vulc7gfilpnt633mkrocst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
